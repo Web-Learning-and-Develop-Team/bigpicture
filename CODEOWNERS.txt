@@ -1,0 +1,7 @@
+Code Owner: Khanh Luong
+
+The following is the set up the rule for manage the code
+
+1. Code Reviewer:  Khanh Luong
+
+2. Code Developer and Test : Khanh Luong
